@@ -8,6 +8,8 @@ I'm currently interested in:
 - Web Scraping
 - Cybersecurity
 
+I am currently interning at the NYU Center For Cybersecurity, working on a phishing-related project which I hope to publish in 2021.
+
 Feel free to look at some of my work!
 
 <a href="https://github.com/etfriedman/MINDknight">
