@@ -28,4 +28,5 @@ Feel free to look at some of my work!
 <a href="https://github.com/etfriedman/spotiline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etfriedman&repo=spotiline&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=etfriedman&show_icons=true&theme=dracula)
+
+![etfriedman's github stats](https://github-readme-stats.vercel.app/api?username=etfriedman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
