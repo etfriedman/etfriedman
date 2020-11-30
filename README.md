@@ -21,7 +21,7 @@ Feel free to look at some of my work!
 <a href="https://github.com/etfriedman/MTAtimes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etfriedman&repo=MTAtimes&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-<a href="Live-FacialRecognition-python">
+<a href="https://github.com/etfriedman/Live-FacialRecognition-python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etfriedman&repo=Live-FacialRecognition-python&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/etfriedman/RSL-Account-Gen">
