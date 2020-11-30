@@ -2,11 +2,12 @@
 
 My name is Ethan.
 
-I'm currently interested in:
+I'm currently interested in/working on:
 - Machine Learning & AI
 - Python
 - Web Scraping
 - Cybersecurity
+- Learning new languages
 
 I am currently interning at the NYU Center For Cybersecurity, working on a phishing-related project which I hope to publish in 2021.
 
