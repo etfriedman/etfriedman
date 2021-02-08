@@ -9,7 +9,7 @@ I'm currently interested in/working on:
 - Cybersecurity
 - Learning new languages
 
-I am currently interning at the NYU Center For Cybersecurity, working on a phishing-related project which I hope to publish in 2021.
+I am currently interning at the NYU Center For Cybersecurity, working on a project which I hope to publish in 2021.
 
 Feel free to look at some of my work!
 
