@@ -9,9 +9,7 @@ I'm currently interested in/working on:
 - Cybersecurity
 - Learning new languages
 
-I am currently interning at the NYU Center For Cybersecurity, working on a project which I hope to publish in 2021.
-
-Feel free to look at some of my work!
+Some of my work:
 
 <a href="https://github.com/etfriedman/MINDknight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=etfriedman&repo=MINDknight&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
